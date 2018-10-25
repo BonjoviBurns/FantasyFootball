@@ -1,2 +1,2 @@
 # FantasyFootball
-Website that allows querying of football statistics that are populated via a Ruby-based spider
+Website that allows querying of football statistics that are populated via a Ruby-based spider that's cool and stuff.
