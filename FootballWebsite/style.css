@@ -1,0 +1,28 @@
+/* ========================
+	PORTFOLIO STYLESHEET
+=========================== */
+
+/*
+    We will want this to be responsive eventually; initial rollout will be for desktop usage.
+*/
+
+/* ========================
+	GENERAL
+=========================== */
+
+* {
+  box-sizing: border-box;
+}
+
+/*==========================
+  PLACEHOLDER
+===========================*/
+
+.placeholder {
+  margin-top: 15 px;
+  margin: auto;
+  padding: 5 em;
+}
+.placeholder h1 {
+  text-align: center;
+}
